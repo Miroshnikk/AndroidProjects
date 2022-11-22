@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project5</string>
+    <string name="buttonPlusOne">Click +1</string>
+    <string name="buttonPlusTen">Press +10</string>
+    <string name="switchOffOn">HIDE BUTTONS</string>
+    <string name="forTextCount">Count: </string>
+    <string name="textName">Set value</string>
+</resources>
