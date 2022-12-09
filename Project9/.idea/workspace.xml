@@ -10,17 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb9759a7-426d-4965-9406-3b5ec9fe2812" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Project10/app/src/main/java/com/project10/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project10/app/src/main/java/com/project10/UserDB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project10/app/src/main/java/com/project10/UserDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project10/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Project10/app/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Наташа\.android\avd\Pixel_2_API_28.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Наташа\.android\avd\Pixel_2_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
