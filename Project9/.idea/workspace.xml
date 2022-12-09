@@ -10,56 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb9759a7-426d-4965-9406-3b5ec9fe2812" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Project9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/androidTest/java/com/example/timer/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/java/com/example/timer/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/java/com/example/timer/MainViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/app/src/test/java/com/example/timer/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project4/app/src/main/res/layout/activity_not_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project4/app/src/main/res/layout/activity_not_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project10/app/src/main/java/com/project10/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project10/app/src/main/java/com/project10/UserDB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project10/app/src/main/java/com/project10/UserDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">

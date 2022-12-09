@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project10</string>
+    <string name="preference_file_key">com.project10.PREFERENCE_FILE_KEY</string>
+    <string name="seekbar_pref"> com.project10.SEEKBAR_PREF</string>
+    <string name="swith_pref"> com.project10.SWITCH_PREF</string>
+</resources>
